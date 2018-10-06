@@ -4,7 +4,7 @@ Project submission for the Udacity [VR Developer Nanodegree](http://udacity.com/
 - Course: VR Software Development
 - Project: A Maze
 - Developer: Alix Cave
-
+- Write Up: https://docs.google.com/document/d/1COrzuTIfwCdRi3llW7ApXOa80XmnmIcF-xFV2t2lyTg/edit?usp=sharing
 
 ### Versions Used
 - [Unity LTS Release 2017.4.4](https://unity3d.com/unity/qa/lts-releases?version=2017.4)
