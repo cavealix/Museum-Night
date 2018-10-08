@@ -1,3 +1,6 @@
+# Watch Play Through
+https://youtu.be/XN2k4LqARCE
+
 # A Maze
 Project submission for the Udacity [VR Developer Nanodegree](http://udacity.com/vr) program.
 
