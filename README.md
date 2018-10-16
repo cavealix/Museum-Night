@@ -1,10 +1,13 @@
+# Watch Play Through
+https://youtu.be/XN2k4LqARCE
+
 # A Maze
 Project submission for the Udacity [VR Developer Nanodegree](http://udacity.com/vr) program.
 
 - Course: VR Software Development
 - Project: A Maze
 - Developer: Alix Cave
-
+- Write Up: https://docs.google.com/document/d/1COrzuTIfwCdRi3llW7ApXOa80XmnmIcF-xFV2t2lyTg/edit?usp=sharing
 
 ### Versions Used
 - [Unity LTS Release 2017.4.4](https://unity3d.com/unity/qa/lts-releases?version=2017.4)
@@ -12,14 +15,20 @@ Project submission for the Udacity [VR Developer Nanodegree](http://udacity.com/
 
 
 ### About My Project
-The included  project represents a new Unity project where the following have been done:
-- All assets needed to complete the project according to the project rubric have been imported.
-- The imported models have been placed in the scene and organized in the scene hierarchy.
-- Colliders have been added to the `Coin`, `Key`, `Left_Door`, `Right_Door`, and `The_Temple` game objects, and to the `Maze` game object's child game objects.
+You will be doing research on VR companies/applications, or industries that could be impacted by VR and how. The intent of the research is to give you an opportunity to survey the VR landscape. We would like you to focus on VR applications (how VR is used) rather than the technology itself (how VR works). The goal is for you to acquire industry knowledge on your own and share it via the project.
+
+After conducting your research, you will be creating a mobile virtual reality experience with 'information booths' which include both visual and audio feedback for users. These booths should showcase your findings - the goal here is to inform other people about the topic at hand in a fun and creative way through a series of (at least five) display points. Users should be able to travel back and forth between display areas inside the space. This is not a VR slideshow, it is a VR space which contains the information about your research. Some potential outputs of this project are creating a scene in a museum, science fair, or gallery-like space which showcases your findings.
+
+Additionally, you will be reinforcing your learnings from the VR Design course by applying the same principles of user testing, iteration, and documentation, and include this write-up along with your project.
+
+Why this project?
+You learned a lot about VR platforms and applications, and we would like you to take this a step further by investigating VR companies/applications, or industries that could be impacted by VR and how. VR is in the early stages, and new development is happening every day. Learning how to stay abreast of the industry development and keep your eyes on the horizon of the future for VR will be critical for your career as a VR content creator.
 
 ### Instructions
-To complete the maze you must first find all 5 coins scattered throughout to reveal the key. Only once you have collected the key can you open the door to the temple. If you need help finding the coins or the key, find your way to the pedestals and look out from them to get view of the maze.
+For this project, we will only accept Cardboard with Unity submissions. Create a VR scene with navigation and instructions, which showcases the findings from your research. This could take the form of a gallery, a museum, or a more creative showcasing of the topics at hand. This scene should include at least 5 'display points' which educate viewers on the topic at hand. These display points can use VR objects, text, images, or video to convey the information at hand and must also emit relevant audio (either educational or complementary to the theme). Users should be able to freely navigate around the space to learn about the topic you have researched.
 
+### Credits
+The Cupix (https://www.cupix.com/) tour demo was used in leiu of my own since the mesh that was built using their service was unusable with major rifts in the mesh.
 
 ### Related Repositories
 - [VR Software Development - Creating Scripts](https://github.com/udacity/VR-Software-Development_Creating-Scripts/releases)
